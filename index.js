@@ -17,7 +17,7 @@
 //      "topics":
 //              {
 //              "gateStatus": status topic (open, close, opening, closing),
-//              "buttonPress": buuton press topic
+//              "buttonPress": button press topic
 //              }
 //      }
 // ],
