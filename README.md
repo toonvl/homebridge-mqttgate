@@ -21,6 +21,6 @@ Remember to configure the plugin in config.json in your home directory inside th
 + "topics":
 	{
         "gateStatus": 	"status topic (open, close, opening, closing)",
-        "buttonPress": 	"buuton press topic"
+        "buttonPress": 	"button press topic"
     }
 
